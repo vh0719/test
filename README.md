@@ -17,7 +17,7 @@
 - 78% of loans have been fully paid
 - Grade G loans originating in 2007 have the highest rate of default
 - These loans have an annuallized return rate of -10.4%
-# Part3: Modeling
+# Part 3: Modeling
 - transform categorical variables to binary variables
 - use random forest model for variable selection
 - fit a logistic regression model on the top variables
